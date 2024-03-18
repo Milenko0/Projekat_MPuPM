@@ -1,0 +1,131 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="15">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="dls1" />
+            <Property id="IDOBJ_NAME" value="dls1" />
+            <Property id="IDOBJ_ALIASNAME" value="dls1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="dls2" />
+            <Property id="IDOBJ_NAME" value="dls2" />
+            <Property id="IDOBJ_ALIASNAME" value="dls2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="dls3" />
+            <Property id="IDOBJ_NAME" value="dls3" />
+            <Property id="IDOBJ_ALIASNAME" value="dls3" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="sc1" />
+            <Property id="IDOBJ_NAME" value="sc1" />
+            <Property id="IDOBJ_ALIASNAME" value="sc1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="sc2" />
+            <Property id="IDOBJ_NAME" value="sc2" />
+            <Property id="IDOBJ_ALIASNAME" value="sc2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="sc3" />
+            <Property id="IDOBJ_NAME" value="sc3" />
+            <Property id="IDOBJ_ALIASNAME" value="sc3" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="cn1" />
+            <Property id="IDOBJ_NAME" value="cn1" />
+            <Property id="IDOBJ_ALIASNAME" value="cn1" />
+            <Property id="CONNECTIVITYNODE_DESCRIPTION" value="cn1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="cn2" />
+            <Property id="IDOBJ_NAME" value="cn2" />
+            <Property id="IDOBJ_ALIASNAME" value="cn2" />
+            <Property id="CONNECTIVITYNODE_DESCRIPTION" value="cn2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffd" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="cn3" />
+            <Property id="IDOBJ_NAME" value="cn3" />
+            <Property id="IDOBJ_ALIASNAME" value="cn3" />
+            <Property id="CONNECTIVITYNODE_DESCRIPTION" value="cn3" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="ACLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="als1" />
+            <Property id="IDOBJ_NAME" value="als1" />
+            <Property id="IDOBJ_ALIASNAME" value="als1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="ACLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="als2" />
+            <Property id="IDOBJ_NAME" value="als2" />
+            <Property id="IDOBJ_ALIASNAME" value="als2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffd" type="ACLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="als3" />
+            <Property id="IDOBJ_NAME" value="als3" />
+            <Property id="IDOBJ_ALIASNAME" value="als3" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="t1" />
+            <Property id="IDOBJ_NAME" value="t1" />
+            <Property id="IDOBJ_ALIASNAME" value="t1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="t2" />
+            <Property id="IDOBJ_NAME" value="t2" />
+            <Property id="IDOBJ_ALIASNAME" value="t2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="t3" />
+            <Property id="IDOBJ_NAME" value="t3" />
+            <Property id="IDOBJ_ALIASNAME" value="t3" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

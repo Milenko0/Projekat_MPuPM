@@ -1,0 +1,1360 @@
+25.2.2024. 00:45:36 : Starting Network Model Serivice...
+25.2.2024. 00:45:37 : The WCF service GenericDataAccess is ready.
+25.2.2024. 00:45:37 : Endpoints:
+25.2.2024. 00:45:37 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 00:45:37 : Connection string: ../NetworkModelData.data
+25.2.2024. 00:45:37 : Trace level: Info
+25.2.2024. 00:45:37 : The Network Model Service is started.
+25.2.2024. 00:45:37 : Press <Enter> to stop the service.
+25.2.2024. 00:45:43 : Applying  delta to network model.
+25.2.2024. 00:45:43 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 00:45:43 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 09:54:52 : Starting Network Model Serivice...
+25.2.2024. 09:54:53 : The WCF service GenericDataAccess is ready.
+25.2.2024. 09:54:54 : Endpoints:
+25.2.2024. 09:54:54 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 09:54:54 : Connection string: ../NetworkModelData.data
+25.2.2024. 09:54:54 : Trace level: Info
+25.2.2024. 09:54:54 : The Network Model Service is started.
+25.2.2024. 09:54:54 : Press <Enter> to stop the service.
+25.2.2024. 12:24:25 : Starting Network Model Serivice...
+25.2.2024. 12:24:26 : The WCF service GenericDataAccess is ready.
+25.2.2024. 12:24:26 : Endpoints:
+25.2.2024. 12:24:26 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 12:24:26 : Connection string: ../NetworkModelData.data
+25.2.2024. 12:24:26 : Trace level: Info
+25.2.2024. 12:24:26 : The Network Model Service is started.
+25.2.2024. 12:24:26 : Press <Enter> to stop the service.
+25.2.2024. 12:26:10 : Starting Network Model Serivice...
+25.2.2024. 12:26:11 : The WCF service GenericDataAccess is ready.
+25.2.2024. 12:26:11 : Endpoints:
+25.2.2024. 12:26:11 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 12:26:11 : Connection string: ../NetworkModelData.data
+25.2.2024. 12:26:11 : Trace level: Info
+25.2.2024. 12:26:11 : The Network Model Service is started.
+25.2.2024. 12:26:11 : Press <Enter> to stop the service.
+25.2.2024. 12:26:32 : Applying  delta to network model.
+25.2.2024. 12:26:32 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 12:26:32 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 12:28:32 : Starting Network Model Serivice...
+25.2.2024. 12:28:34 : The WCF service GenericDataAccess is ready.
+25.2.2024. 12:28:34 : Endpoints:
+25.2.2024. 12:28:34 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 12:28:34 : Connection string: ../NetworkModelData.data
+25.2.2024. 12:28:34 : Trace level: Info
+25.2.2024. 12:28:34 : The Network Model Service is started.
+25.2.2024. 12:28:34 : Press <Enter> to stop the service.
+25.2.2024. 12:28:57 : Applying  delta to network model.
+25.2.2024. 12:28:57 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 12:28:57 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 12:42:49 : Starting Network Model Serivice...
+25.2.2024. 12:42:50 : The WCF service GenericDataAccess is ready.
+25.2.2024. 12:42:50 : Endpoints:
+25.2.2024. 12:42:50 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 12:42:50 : Connection string: ../NetworkModelData.data
+25.2.2024. 12:42:50 : Trace level: Info
+25.2.2024. 12:42:50 : The Network Model Service is started.
+25.2.2024. 12:42:50 : Press <Enter> to stop the service.
+25.2.2024. 12:43:15 : Applying  delta to network model.
+25.2.2024. 12:43:15 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 12:43:15 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 12:50:50 : Starting Network Model Serivice...
+25.2.2024. 12:50:52 : The WCF service GenericDataAccess is ready.
+25.2.2024. 12:50:52 : Endpoints:
+25.2.2024. 12:50:52 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 12:50:52 : Connection string: ../NetworkModelData.data
+25.2.2024. 12:50:52 : Trace level: Info
+25.2.2024. 12:50:52 : The Network Model Service is started.
+25.2.2024. 12:50:52 : Press <Enter> to stop the service.
+25.2.2024. 12:51:30 : Applying  delta to network model.
+25.2.2024. 12:51:30 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 12:51:30 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 13:10:59 : Starting Network Model Serivice...
+25.2.2024. 13:11:01 : The WCF service GenericDataAccess is ready.
+25.2.2024. 13:11:01 : Endpoints:
+25.2.2024. 13:11:01 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 13:11:01 : Connection string: ../NetworkModelData.data
+25.2.2024. 13:11:01 : Trace level: Info
+25.2.2024. 13:11:01 : The Network Model Service is started.
+25.2.2024. 13:11:01 : Press <Enter> to stop the service.
+25.2.2024. 13:11:23 : Applying  delta to network model.
+25.2.2024. 13:11:23 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 13:11:23 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 16:39:11 : Starting Network Model Serivice...
+25.2.2024. 16:39:14 : The WCF service GenericDataAccess is ready.
+25.2.2024. 16:39:14 : Endpoints:
+25.2.2024. 16:39:14 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 16:39:14 : Connection string: ../NetworkModelData.data
+25.2.2024. 16:39:14 : Trace level: Info
+25.2.2024. 16:39:14 : The Network Model Service is started.
+25.2.2024. 16:39:14 : Press <Enter> to stop the service.
+25.2.2024. 16:39:35 : Applying  delta to network model.
+25.2.2024. 16:39:35 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 16:39:35 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 16:44:16 : Starting Network Model Serivice...
+25.2.2024. 16:44:18 : The WCF service GenericDataAccess is ready.
+25.2.2024. 16:44:18 : Endpoints:
+25.2.2024. 16:44:18 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 16:44:18 : Connection string: ../NetworkModelData.data
+25.2.2024. 16:44:18 : Trace level: Info
+25.2.2024. 16:44:18 : The Network Model Service is started.
+25.2.2024. 16:44:18 : Press <Enter> to stop the service.
+25.2.2024. 16:44:32 : Applying  delta to network model.
+25.2.2024. 16:44:32 : Inserting entity with GID (0000000100000001).
+25.2.2024. 16:44:32 : Inserting entity with GID (0000000100000002).
+25.2.2024. 16:44:32 : Applying delta to network model successfully finished.
+25.2.2024. 16:45:29 : Applying  delta to network model.
+25.2.2024. 16:45:29 : Inserting entity with GID (0000000100000003).
+25.2.2024. 16:45:29 : Inserting entity with GID (0000000100000004).
+25.2.2024. 16:45:29 : Inserting entity with GID (0000000200000001).
+25.2.2024. 16:45:29 : Inserting entity with GID (0000000200000002).
+25.2.2024. 16:45:29 : Applying delta to network model successfully finished.
+25.2.2024. 16:46:10 : Applying  delta to network model.
+25.2.2024. 16:46:10 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 16:46:10 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 16:47:00 : Applying  delta to network model.
+25.2.2024. 16:47:00 : Inserting entity with GID (0000000100000005).
+25.2.2024. 16:47:00 : Inserting entity with GID (0000000100000006).
+25.2.2024. 16:47:00 : Inserting entity with GID (0000000200000003).
+25.2.2024. 16:47:00 : Inserting entity with GID (0000000200000004).
+25.2.2024. 16:47:00 : Inserting entity with GID (0000000400000001).
+25.2.2024. 16:47:00 : Inserting entity with GID (0000000400000002).
+25.2.2024. 16:47:00 : Applying delta to network model successfully finished.
+25.2.2024. 16:48:15 : Applying  delta to network model.
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000100000007).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000100000008).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000200000005).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000200000006).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000400000003).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000400000004).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000500000001).
+25.2.2024. 16:48:15 : Inserting entity with GID (0000000500000002).
+25.2.2024. 16:48:15 : Applying delta to network model successfully finished.
+25.2.2024. 16:49:11 : Applying  delta to network model.
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000100000009).
+25.2.2024. 16:49:11 : Inserting entity with GID (000000010000000a).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000200000007).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000200000008).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000400000005).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000400000006).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000500000003).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000500000004).
+25.2.2024. 16:49:11 : Inserting entity with GID (0000000600000001).
+25.2.2024. 16:49:11 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 16:49:11 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 16:49:11 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005)..
+25.2.2024. 16:50:08 : Applying  delta to network model.
+25.2.2024. 16:50:08 : Inserting entity with GID (000000010000000b).
+25.2.2024. 16:50:08 : Inserting entity with GID (000000010000000c).
+25.2.2024. 16:50:08 : Inserting entity with GID (0000000200000009).
+25.2.2024. 16:50:08 : Inserting entity with GID (000000020000000a).
+25.2.2024. 16:50:08 : Inserting entity with GID (0000000400000007).
+25.2.2024. 16:50:08 : Inserting entity with GID (0000000400000008).
+25.2.2024. 16:50:08 : Inserting entity with GID (0000000500000005).
+25.2.2024. 16:50:08 : Inserting entity with GID (0000000500000006).
+25.2.2024. 16:50:08 : Inserting entity with GID (0000000600000002).
+25.2.2024. 16:50:08 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 16:50:08 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 16:50:08 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007)..
+25.2.2024. 16:51:21 : Applying  delta to network model.
+25.2.2024. 16:51:21 : Inserting entity with GID (000000010000000d).
+25.2.2024. 16:51:21 : Inserting entity with GID (000000010000000e).
+25.2.2024. 16:51:21 : Inserting entity with GID (000000020000000b).
+25.2.2024. 16:51:21 : Inserting entity with GID (000000020000000c).
+25.2.2024. 16:51:21 : Inserting entity with GID (0000000400000009).
+25.2.2024. 16:51:21 : Inserting entity with GID (000000040000000a).
+25.2.2024. 16:51:21 : Inserting entity with GID (0000000500000007).
+25.2.2024. 16:51:21 : Inserting entity with GID (0000000500000008).
+25.2.2024. 16:51:21 : Inserting entity with GID (0000000600000003).
+25.2.2024. 16:51:21 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 16:51:21 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 16:51:21 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007)..
+25.2.2024. 16:52:54 : Applying  delta to network model.
+25.2.2024. 16:52:54 : Inserting entity with GID (000000010000000f).
+25.2.2024. 16:52:54 : Inserting entity with GID (0000000100000010).
+25.2.2024. 16:52:54 : Inserting entity with GID (000000020000000d).
+25.2.2024. 16:52:54 : Inserting entity with GID (000000020000000e).
+25.2.2024. 16:52:54 : Inserting entity with GID (000000040000000b).
+25.2.2024. 16:52:54 : Inserting entity with GID (000000040000000c).
+25.2.2024. 16:52:54 : Inserting entity with GID (0000000500000009).
+25.2.2024. 16:52:54 : Inserting entity with GID (000000050000000a).
+25.2.2024. 16:52:54 : Inserting entity with GID (0000000600000004).
+25.2.2024. 16:52:54 : Applying delta to network model successfully finished.
+25.2.2024. 16:54:07 : Applying  delta to network model.
+25.2.2024. 16:54:07 : Inserting entity with GID (0000000100000011).
+25.2.2024. 16:54:07 : Inserting entity with GID (0000000100000012).
+25.2.2024. 16:54:07 : Inserting entity with GID (000000020000000f).
+25.2.2024. 16:54:07 : Inserting entity with GID (0000000200000010).
+25.2.2024. 16:54:07 : Inserting entity with GID (000000040000000d).
+25.2.2024. 16:54:07 : Inserting entity with GID (000000040000000e).
+25.2.2024. 16:54:07 : Inserting entity with GID (000000050000000b).
+25.2.2024. 16:54:07 : Inserting entity with GID (000000050000000c).
+25.2.2024. 16:54:07 : Inserting entity with GID (0000000600000005).
+25.2.2024. 16:54:07 : Inserting entity with GID (0000000600000006).
+25.2.2024. 16:54:07 : Applying delta to network model successfully finished.
+25.2.2024. 16:55:22 : Applying  delta to network model.
+25.2.2024. 16:55:22 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 16:55:22 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+25.2.2024. 16:57:46 : Applying  delta to network model.
+25.2.2024. 16:57:46 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 16:57:46 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+25.2.2024. 16:58:50 : Applying  delta to network model.
+25.2.2024. 16:58:50 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 16:58:50 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+25.2.2024. 17:00:41 : Applying  delta to network model.
+25.2.2024. 17:00:41 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 17:00:41 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+25.2.2024. 17:03:01 : Starting Network Model Serivice...
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000001).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000002).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000003).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000004).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000001).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000002).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000005).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000006).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000003).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000004).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000001).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000002).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000007).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000008).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000005).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000006).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000003).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000004).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000001).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000002).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000009).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000010000000a).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000007).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000008).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000005).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000006).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000003).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000004).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000600000001).
+25.2.2024. 17:03:01 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 17:03:01 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 17:03:01 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000010000000b).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000010000000c).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000009).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000020000000a).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000007).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000008).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000005).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000006).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000600000002).
+25.2.2024. 17:03:01 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 17:03:01 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 17:03:01 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000010000000d).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000010000000e).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000020000000b).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000020000000c).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000400000009).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000040000000a).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000007).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000008).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000600000003).
+25.2.2024. 17:03:01 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 17:03:01 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 17:03:01 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000010000000f).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000010).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000020000000d).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000020000000e).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000040000000b).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000040000000c).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000500000009).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000050000000a).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000600000004).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000011).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000100000012).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000020000000f).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000200000010).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000040000000d).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000040000000e).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000050000000b).
+25.2.2024. 17:03:01 : Inserting entity with GID (000000050000000c).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000600000005).
+25.2.2024. 17:03:01 : Inserting entity with GID (0000000600000006).
+25.2.2024. 17:03:03 : The WCF service GenericDataAccess is ready.
+25.2.2024. 17:03:03 : Endpoints:
+25.2.2024. 17:03:03 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 17:03:03 : Connection string: ../NetworkModelData.data
+25.2.2024. 17:03:03 : Trace level: Info
+25.2.2024. 17:03:03 : The Network Model Service is started.
+25.2.2024. 17:03:03 : Press <Enter> to stop the service.
+25.2.2024. 17:08:36 : Starting Network Model Serivice...
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000001).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000002).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000003).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000004).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000001).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000002).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000005).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000006).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000003).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000004).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000001).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000002).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000007).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000008).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000005).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000006).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000003).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000004).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000001).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000002).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000009).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000010000000a).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000007).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000008).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000005).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000006).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000003).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000004).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000600000001).
+25.2.2024. 17:08:37 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 17:08:37 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 17:08:37 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000010000000b).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000010000000c).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000009).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000020000000a).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000007).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000008).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000005).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000006).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000600000002).
+25.2.2024. 17:08:37 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 17:08:37 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 17:08:37 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000010000000d).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000010000000e).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000020000000b).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000020000000c).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000400000009).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000040000000a).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000007).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000008).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000600000003).
+25.2.2024. 17:08:37 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 17:08:37 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 17:08:37 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000007).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000010000000f).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000010).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000020000000d).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000020000000e).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000040000000b).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000040000000c).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000500000009).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000050000000a).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000600000004).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000011).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000100000012).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000020000000f).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000200000010).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000040000000d).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000040000000e).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000050000000b).
+25.2.2024. 17:08:37 : Inserting entity with GID (000000050000000c).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000600000005).
+25.2.2024. 17:08:37 : Inserting entity with GID (0000000600000006).
+25.2.2024. 17:08:37 : The WCF service GenericDataAccess is ready.
+25.2.2024. 17:08:37 : Endpoints:
+25.2.2024. 17:08:37 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 17:08:37 : Connection string: ../NetworkModelData.data
+25.2.2024. 17:08:37 : Trace level: Info
+25.2.2024. 17:08:37 : The Network Model Service is started.
+25.2.2024. 17:08:37 : Press <Enter> to stop the service.
+25.2.2024. 17:18:18 : Failed to get related values for source GID = 0x0000000100000001. Association propertyId = CONDUCTOR_LENGTH is not reference or reference vector type..
+25.2.2024. 17:18:18 : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Association propertyId = CONDUCTOR_LENGTH is not reference or reference vector type..
+25.2.2024. 17:21:49 : Failed to get related values for source GID = 0x0000000400000001. Entity with GID = 0x0000000400000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+25.2.2024. 17:21:49 : Getting related values for resource with ID = 0x0000000400000001 failed. Failed to get related values for source GID = 0x0000000400000001. Entity with GID = 0x0000000400000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+25.2.2024. 17:29:37 : Starting Network Model Serivice...
+25.2.2024. 17:29:39 : The WCF service GenericDataAccess is ready.
+25.2.2024. 17:29:39 : Endpoints:
+25.2.2024. 17:29:39 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 17:29:39 : Connection string: ../NetworkModelData.data
+25.2.2024. 17:29:39 : Trace level: Info
+25.2.2024. 17:29:39 : The Network Model Service is started.
+25.2.2024. 17:29:39 : Press <Enter> to stop the service.
+25.2.2024. 17:29:58 : Applying  delta to network model.
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000100000001).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000100000002).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000200000001).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000200000002).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000400000001).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000400000002).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000500000001).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000500000002).
+25.2.2024. 17:29:58 : Inserting entity with GID (0000000600000001).
+25.2.2024. 17:29:58 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+25.2.2024. 17:29:58 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+25.2.2024. 17:29:58 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001)..
+25.2.2024. 17:31:48 : Applying  delta to network model.
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000100000003).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000100000004).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000200000003).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000200000004).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000400000003).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000400000004).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000500000003).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000500000004).
+25.2.2024. 17:31:48 : Inserting entity with GID (0000000600000002).
+25.2.2024. 17:31:48 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000003).
+25.2.2024. 17:31:48 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000003).
+25.2.2024. 17:31:48 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000003)..
+25.2.2024. 17:33:22 : Applying  delta to network model.
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000100000005).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000100000006).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000200000005).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000200000006).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000400000005).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000400000006).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000500000005).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000500000006).
+25.2.2024. 17:33:22 : Inserting entity with GID (0000000600000003).
+25.2.2024. 17:33:22 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000005).
+25.2.2024. 17:33:22 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000005).
+25.2.2024. 17:33:22 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000005)..
+25.2.2024. 17:34:32 : Applying  delta to network model.
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000100000007).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000100000008).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000200000007).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000200000008).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000400000007).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000400000008).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000500000007).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000500000008).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000600000004).
+25.2.2024. 17:34:32 : Inserting entity with GID (0000000600000005).
+25.2.2024. 17:34:32 : Applying delta to network model successfully finished.
+25.2.2024. 17:34:42 : Starting Network Model Serivice...
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000001).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000002).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000200000001).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000200000002).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000400000001).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000400000002).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000500000001).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000500000002).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000600000001).
+25.2.2024. 17:34:42 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+25.2.2024. 17:34:42 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+25.2.2024. 17:34:42 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000003).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000004).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000200000003).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000200000004).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000400000003).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000400000004).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000500000003).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000500000004).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000600000002).
+25.2.2024. 17:34:42 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000003).
+25.2.2024. 17:34:42 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000003).
+25.2.2024. 17:34:42 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000003).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000005).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000006).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000200000005).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000200000006).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000400000005).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000400000006).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000500000005).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000500000006).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000600000003).
+25.2.2024. 17:34:42 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000005).
+25.2.2024. 17:34:42 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000005).
+25.2.2024. 17:34:42 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000500000005).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000007).
+25.2.2024. 17:34:42 : Inserting entity with GID (0000000100000008).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000200000007).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000200000008).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000400000007).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000400000008).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000500000007).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000500000008).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000600000004).
+25.2.2024. 17:34:43 : Inserting entity with GID (0000000600000005).
+25.2.2024. 17:34:44 : The WCF service GenericDataAccess is ready.
+25.2.2024. 17:34:44 : Endpoints:
+25.2.2024. 17:34:44 : net.tcp://localhost:10000/NetworkModelService/GDA/
+25.2.2024. 17:34:44 : Connection string: ../NetworkModelData.data
+25.2.2024. 17:34:44 : Trace level: Info
+25.2.2024. 17:34:44 : The Network Model Service is started.
+25.2.2024. 17:34:44 : Press <Enter> to stop the service.
+25.2.2024. 17:37:26 : Applying  delta to network model.
+25.2.2024. 17:37:26 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+25.2.2024. 17:37:26 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+8.3.2024. 18:58:23 : Starting Network Model Serivice...
+8.3.2024. 18:58:33 : The WCF service GenericDataAccess is ready.
+8.3.2024. 18:58:33 : Endpoints:
+8.3.2024. 18:58:33 : net.tcp://localhost:10000/NetworkModelService/GDA/
+8.3.2024. 18:58:33 : Connection string: ../NetworkModelData.data
+8.3.2024. 18:58:33 : Trace level: Info
+8.3.2024. 18:58:33 : The Network Model Service is started.
+8.3.2024. 18:58:33 : Press <Enter> to stop the service.
+8.3.2024. 18:59:09 : Applying  delta to network model.
+8.3.2024. 18:59:09 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 18:59:09 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:01:01 : Applying  delta to network model.
+8.3.2024. 19:01:01 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:01:01 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:01:43 : Applying  delta to network model.
+8.3.2024. 19:01:43 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:01:43 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:02:39 : Applying  delta to network model.
+8.3.2024. 19:02:39 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:02:39 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:03:44 : Applying  delta to network model.
+8.3.2024. 19:03:44 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:03:44 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:05:14 : Applying  delta to network model.
+8.3.2024. 19:05:14 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:05:14 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:06:21 : Applying  delta to network model.
+8.3.2024. 19:06:21 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:06:21 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+8.3.2024. 19:07:35 : Starting Network Model Serivice...
+8.3.2024. 19:07:36 : The WCF service GenericDataAccess is ready.
+8.3.2024. 19:07:36 : Endpoints:
+8.3.2024. 19:07:36 : net.tcp://localhost:10000/NetworkModelService/GDA/
+8.3.2024. 19:07:36 : Connection string: ../NetworkModelData.data
+8.3.2024. 19:07:36 : Trace level: Info
+8.3.2024. 19:07:36 : The Network Model Service is started.
+8.3.2024. 19:07:36 : Press <Enter> to stop the service.
+8.3.2024. 19:07:52 : Applying  delta to network model.
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000100000001).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000100000002).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000200000001).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000200000002).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000400000001).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000400000002).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000500000001).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000500000002).
+8.3.2024. 19:07:52 : Inserting entity with GID (0000000600000001).
+8.3.2024. 19:07:52 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+8.3.2024. 19:07:52 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+8.3.2024. 19:07:52 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001)..
+8.3.2024. 19:09:13 : Applying  delta to network model.
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000100000003).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000100000004).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000200000003).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000200000004).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000400000003).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000400000004).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000500000003).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000500000004).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000600000002).
+8.3.2024. 19:09:13 : Inserting entity with GID (0000000600000003).
+8.3.2024. 19:09:13 : Applying delta to network model successfully finished.
+8.3.2024. 19:09:50 : Applying  delta to network model.
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000100000005).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000100000006).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000200000005).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000200000006).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000400000005).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000400000006).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000500000005).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000500000006).
+8.3.2024. 19:09:50 : Inserting entity with GID (0000000600000004).
+8.3.2024. 19:09:50 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+8.3.2024. 19:09:50 : Failed to insert entity (GID = 0x0000000600000004) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+8.3.2024. 19:09:50 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000004) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005)..
+8.3.2024. 19:11:33 : Applying  delta to network model.
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000100000007).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000100000008).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000200000007).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000200000008).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000400000007).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000400000008).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000500000007).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000500000008).
+8.3.2024. 19:11:33 : Inserting entity with GID (0000000600000005).
+8.3.2024. 19:11:33 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+8.3.2024. 19:11:33 : Failed to insert entity (GID = 0x0000000600000005) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+8.3.2024. 19:11:33 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000005) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007)..
+8.3.2024. 19:11:59 : Applying  delta to network model.
+8.3.2024. 19:11:59 : Inserting entity with GID (0000000100000009).
+8.3.2024. 19:11:59 : Inserting entity with GID (000000010000000a).
+8.3.2024. 19:11:59 : Inserting entity with GID (0000000200000009).
+8.3.2024. 19:11:59 : Inserting entity with GID (000000020000000a).
+8.3.2024. 19:11:59 : Inserting entity with GID (0000000400000009).
+8.3.2024. 19:11:59 : Inserting entity with GID (000000040000000a).
+8.3.2024. 19:11:59 : Inserting entity with GID (0000000500000009).
+8.3.2024. 19:11:59 : Inserting entity with GID (000000050000000a).
+8.3.2024. 19:11:59 : Inserting entity with GID (0000000600000006).
+8.3.2024. 19:11:59 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000009).
+8.3.2024. 19:11:59 : Failed to insert entity (GID = 0x0000000600000006) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000009).
+8.3.2024. 19:11:59 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000006) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000009)..
+8.3.2024. 19:12:31 : Applying  delta to network model.
+8.3.2024. 19:12:31 : Inserting entity with GID (000000010000000b).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000010000000c).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000020000000b).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000020000000c).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000040000000b).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000040000000c).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000050000000b).
+8.3.2024. 19:12:31 : Inserting entity with GID (000000050000000c).
+8.3.2024. 19:12:31 : Inserting entity with GID (0000000600000007).
+8.3.2024. 19:12:31 : Inserting entity with GID (0000000600000008).
+8.3.2024. 19:12:31 : Applying delta to network model successfully finished.
+8.3.2024. 19:13:00 : Applying  delta to network model.
+8.3.2024. 19:13:00 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+8.3.2024. 19:13:00 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+9.3.2024. 00:15:55 : Starting Network Model Serivice...
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000001).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000002).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000001).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000002).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000001).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000002).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000001).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000002).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000001).
+9.3.2024. 00:15:56 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+9.3.2024. 00:15:56 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+9.3.2024. 00:15:56 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000003).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000004).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000003).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000004).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000003).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000004).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000003).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000004).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000002).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000003).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000005).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000006).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000005).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000006).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000005).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000006).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000005).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000006).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000004).
+9.3.2024. 00:15:56 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+9.3.2024. 00:15:56 : Failed to insert entity (GID = 0x0000000600000004) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+9.3.2024. 00:15:56 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000004) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000005).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000007).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000008).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000007).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000008).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000007).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000008).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000007).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000008).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000005).
+9.3.2024. 00:15:56 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+9.3.2024. 00:15:56 : Failed to insert entity (GID = 0x0000000600000005) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+9.3.2024. 00:15:56 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000600000005) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000007).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000100000009).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000010000000a).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000200000009).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000020000000a).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000400000009).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000040000000a).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000500000009).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000050000000a).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000006).
+9.3.2024. 00:15:56 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000009).
+9.3.2024. 00:15:56 : Failed to insert entity (GID = 0x0000000600000006) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000009).
+9.3.2024. 00:15:56 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000600000006) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000009).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000010000000b).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000010000000c).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000020000000b).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000020000000c).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000040000000b).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000040000000c).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000050000000b).
+9.3.2024. 00:15:56 : Inserting entity with GID (000000050000000c).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000007).
+9.3.2024. 00:15:56 : Inserting entity with GID (0000000600000008).
+9.3.2024. 00:15:57 : The WCF service GenericDataAccess is ready.
+9.3.2024. 00:15:57 : Endpoints:
+9.3.2024. 00:15:57 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9.3.2024. 00:15:57 : Connection string: ../NetworkModelData.data
+9.3.2024. 00:15:57 : Trace level: Info
+9.3.2024. 00:15:57 : The Network Model Service is started.
+9.3.2024. 00:15:57 : Press <Enter> to stop the service.
+9.3.2024. 00:16:34 : Applying  delta to network model.
+9.3.2024. 00:16:34 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 00:16:34 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+9.3.2024. 00:17:08 : Applying  delta to network model.
+9.3.2024. 00:17:08 : Failed to sort delta operations because there are some insert operations (count = 2) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 00:17:08 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 2) whose type (e.g 3) is not correct..
+9.3.2024. 00:17:32 : Applying  delta to network model.
+9.3.2024. 00:17:32 : Inserting entity with GID (000000010000000d).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000010000000e).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000020000000d).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000020000000e).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000040000000d).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000040000000e).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000050000000d).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000050000000e).
+9.3.2024. 00:17:32 : Inserting entity with GID (0000000600000009).
+9.3.2024. 00:17:32 : Inserting entity with GID (000000060000000a).
+9.3.2024. 00:17:32 : Applying delta to network model successfully finished.
+9.3.2024. 00:19:05 : Applying  delta to network model.
+9.3.2024. 00:19:05 : Inserting entity with GID (000000010000000f).
+9.3.2024. 00:19:05 : Inserting entity with GID (0000000100000010).
+9.3.2024. 00:19:05 : Inserting entity with GID (000000020000000f).
+9.3.2024. 00:19:05 : Inserting entity with GID (0000000200000010).
+9.3.2024. 00:19:05 : Inserting entity with GID (000000040000000f).
+9.3.2024. 00:19:05 : Inserting entity with GID (0000000400000010).
+9.3.2024. 00:19:05 : Inserting entity with GID (000000050000000f).
+9.3.2024. 00:19:05 : Inserting entity with GID (0000000500000010).
+9.3.2024. 00:19:05 : Inserting entity with GID (000000060000000b).
+9.3.2024. 00:19:05 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x000000040000000f).
+9.3.2024. 00:19:05 : Failed to insert entity (GID = 0x000000060000000b) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x000000040000000f).
+9.3.2024. 00:19:05 : Applying delta to network model failed. Failed to insert entity (GID = 0x000000060000000b) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x000000040000000f)..
+9.3.2024. 22:22:13 : Starting Network Model Serivice...
+9.3.2024. 22:22:14 : The WCF service GenericDataAccess is ready.
+9.3.2024. 22:22:14 : Endpoints:
+9.3.2024. 22:22:14 : net.tcp://localhost:10000/NetworkModelService/GDA/
+9.3.2024. 22:22:14 : Connection string: ../NetworkModelData.data
+9.3.2024. 22:22:14 : Trace level: Info
+9.3.2024. 22:22:14 : The Network Model Service is started.
+9.3.2024. 22:22:14 : Press <Enter> to stop the service.
+9.3.2024. 22:22:45 : Applying  delta to network model.
+9.3.2024. 22:22:45 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:22:45 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:32:27 : Applying  delta to network model.
+9.3.2024. 22:32:27 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:32:27 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:32:47 : Applying  delta to network model.
+9.3.2024. 22:32:47 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:32:47 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:33:07 : Applying  delta to network model.
+9.3.2024. 22:33:07 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:33:07 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:33:26 : Applying  delta to network model.
+9.3.2024. 22:33:26 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:33:26 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:33:49 : Applying  delta to network model.
+9.3.2024. 22:33:49 : Inserting entity with GID (0000000100000001).
+9.3.2024. 22:33:49 : Inserting entity with GID (0000000200000001).
+9.3.2024. 22:33:49 : Inserting entity with GID (0000000400000001).
+9.3.2024. 22:33:49 : Inserting entity with GID (0000000500000001).
+9.3.2024. 22:33:49 : Inserting entity with GID (0000000600000001).
+9.3.2024. 22:33:49 : Applying delta to network model successfully finished.
+9.3.2024. 22:34:26 : Applying  delta to network model.
+9.3.2024. 22:34:26 : Inserting entity with GID (0000000100000002).
+9.3.2024. 22:34:26 : Inserting entity with GID (0000000200000002).
+9.3.2024. 22:34:26 : Inserting entity with GID (0000000400000002).
+9.3.2024. 22:34:26 : Inserting entity with GID (0000000500000002).
+9.3.2024. 22:34:26 : Inserting entity with GID (0000000600000002).
+9.3.2024. 22:34:26 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+9.3.2024. 22:34:26 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+9.3.2024. 22:34:27 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002)..
+9.3.2024. 22:35:00 : Applying  delta to network model.
+9.3.2024. 22:35:00 : Inserting entity with GID (0000000100000003).
+9.3.2024. 22:35:00 : Inserting entity with GID (0000000200000003).
+9.3.2024. 22:35:00 : Inserting entity with GID (0000000400000003).
+9.3.2024. 22:35:00 : Inserting entity with GID (0000000500000003).
+9.3.2024. 22:35:00 : Inserting entity with GID (0000000600000003).
+9.3.2024. 22:35:00 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+9.3.2024. 22:35:00 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+9.3.2024. 22:35:00 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003)..
+9.3.2024. 22:35:17 : Applying  delta to network model.
+9.3.2024. 22:35:17 : Inserting entity with GID (0000000100000004).
+9.3.2024. 22:35:17 : Inserting entity with GID (0000000200000004).
+9.3.2024. 22:35:17 : Inserting entity with GID (0000000400000004).
+9.3.2024. 22:35:17 : Inserting entity with GID (0000000500000004).
+9.3.2024. 22:35:17 : Inserting entity with GID (0000000600000004).
+9.3.2024. 22:35:17 : Applying delta to network model successfully finished.
+9.3.2024. 22:35:38 : Applying  delta to network model.
+9.3.2024. 22:35:38 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:35:38 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:35:52 : Applying  delta to network model.
+9.3.2024. 22:35:52 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+9.3.2024. 22:35:52 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+9.3.2024. 22:36:10 : Applying  delta to network model.
+9.3.2024. 22:36:10 : Inserting entity with GID (0000000100000005).
+9.3.2024. 22:36:10 : Inserting entity with GID (0000000200000005).
+9.3.2024. 22:36:10 : Inserting entity with GID (0000000400000005).
+9.3.2024. 22:36:10 : Inserting entity with GID (0000000500000005).
+9.3.2024. 22:36:10 : Inserting entity with GID (0000000600000005).
+9.3.2024. 22:36:10 : Applying delta to network model successfully finished.
+11.3.2024. 04:27:43 : Starting Network Model Serivice...
+11.3.2024. 04:27:46 : The WCF service GenericDataAccess is ready.
+11.3.2024. 04:27:46 : Endpoints:
+11.3.2024. 04:27:46 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 04:27:46 : Connection string: ../NetworkModelData.data
+11.3.2024. 04:27:46 : Trace level: Info
+11.3.2024. 04:27:46 : The Network Model Service is started.
+11.3.2024. 04:27:46 : Press <Enter> to stop the service.
+11.3.2024. 04:28:19 : Applying  delta to network model.
+11.3.2024. 04:28:19 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+11.3.2024. 04:28:19 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+11.3.2024. 04:29:11 : Applying  delta to network model.
+11.3.2024. 04:29:11 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+11.3.2024. 04:29:11 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+11.3.2024. 04:29:55 : Applying  delta to network model.
+11.3.2024. 04:29:55 : Inserting entity with GID (0000000100000001).
+11.3.2024. 04:29:55 : Inserting entity with GID (0000000200000001).
+11.3.2024. 04:29:55 : Inserting entity with GID (0000000400000001).
+11.3.2024. 04:29:55 : Inserting entity with GID (0000000500000001).
+11.3.2024. 04:29:55 : Inserting entity with GID (0000000600000001).
+11.3.2024. 04:29:56 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:29:56 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:29:56 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001)..
+11.3.2024. 04:30:15 : Applying  delta to network model.
+11.3.2024. 04:30:15 : Inserting entity with GID (0000000100000002).
+11.3.2024. 04:30:15 : Inserting entity with GID (0000000200000002).
+11.3.2024. 04:30:15 : Inserting entity with GID (0000000400000002).
+11.3.2024. 04:30:15 : Inserting entity with GID (0000000500000002).
+11.3.2024. 04:30:15 : Inserting entity with GID (0000000600000002).
+11.3.2024. 04:30:15 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:30:15 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:30:15 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002)..
+11.3.2024. 04:30:33 : Applying  delta to network model.
+11.3.2024. 04:30:33 : Inserting entity with GID (0000000100000003).
+11.3.2024. 04:30:33 : Inserting entity with GID (0000000200000003).
+11.3.2024. 04:30:33 : Inserting entity with GID (0000000400000003).
+11.3.2024. 04:30:33 : Inserting entity with GID (0000000500000003).
+11.3.2024. 04:30:33 : Inserting entity with GID (0000000600000003).
+11.3.2024. 04:30:33 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:30:33 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:30:33 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003)..
+11.3.2024. 04:30:52 : Applying  delta to network model.
+11.3.2024. 04:30:52 : Inserting entity with GID (0000000100000004).
+11.3.2024. 04:30:52 : Inserting entity with GID (0000000200000004).
+11.3.2024. 04:30:52 : Inserting entity with GID (0000000400000004).
+11.3.2024. 04:30:52 : Inserting entity with GID (0000000500000004).
+11.3.2024. 04:30:52 : Inserting entity with GID (0000000600000004).
+11.3.2024. 04:30:52 : Applying delta to network model successfully finished.
+11.3.2024. 04:31:22 : Applying  delta to network model.
+11.3.2024. 04:31:22 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+11.3.2024. 04:31:22 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+11.3.2024. 04:42:07 : Starting Network Model Serivice...
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000100000001).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000200000001).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000400000001).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000500000001).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000600000001).
+11.3.2024. 04:42:07 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:42:07 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:42:07 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000100000002).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000200000002).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000400000002).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000500000002).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000600000002).
+11.3.2024. 04:42:07 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:42:07 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:42:07 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000100000003).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000200000003).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000400000003).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000500000003).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000600000003).
+11.3.2024. 04:42:07 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:42:07 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:42:07 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000100000004).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000200000004).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000400000004).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000500000004).
+11.3.2024. 04:42:07 : Inserting entity with GID (0000000600000004).
+11.3.2024. 04:42:09 : The WCF service GenericDataAccess is ready.
+11.3.2024. 04:42:09 : Endpoints:
+11.3.2024. 04:42:09 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 04:42:09 : Connection string: ../NetworkModelData.data
+11.3.2024. 04:42:09 : Trace level: Info
+11.3.2024. 04:42:09 : The Network Model Service is started.
+11.3.2024. 04:42:09 : Press <Enter> to stop the service.
+11.3.2024. 04:42:20 : Starting Network Model Serivice...
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000100000001).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000200000001).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000400000001).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000500000001).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000600000001).
+11.3.2024. 04:42:21 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:42:21 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:42:21 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000100000002).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000200000002).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000400000002).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000500000002).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000600000002).
+11.3.2024. 04:42:21 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:42:21 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:42:21 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000100000003).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000200000003).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000400000003).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000500000003).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000600000003).
+11.3.2024. 04:42:21 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:42:21 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:42:21 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000100000004).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000200000004).
+11.3.2024. 04:42:21 : Inserting entity with GID (0000000400000004).
+11.3.2024. 04:42:22 : Inserting entity with GID (0000000500000004).
+11.3.2024. 04:42:22 : Inserting entity with GID (0000000600000004).
+11.3.2024. 04:42:23 : The WCF service GenericDataAccess is ready.
+11.3.2024. 04:42:23 : Endpoints:
+11.3.2024. 04:42:23 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 04:42:23 : Connection string: ../NetworkModelData.data
+11.3.2024. 04:42:23 : Trace level: Info
+11.3.2024. 04:42:23 : The Network Model Service is started.
+11.3.2024. 04:42:23 : Press <Enter> to stop the service.
+11.3.2024. 04:42:37 : Applying  delta to network model.
+11.3.2024. 04:42:37 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+11.3.2024. 04:42:37 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+11.3.2024. 04:45:59 : Starting Network Model Serivice...
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000100000001).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000200000001).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000400000001).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000500000001).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000600000001).
+11.3.2024. 04:45:59 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:45:59 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:45:59 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000100000002).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000200000002).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000400000002).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000500000002).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000600000002).
+11.3.2024. 04:45:59 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:45:59 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:45:59 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000100000003).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000200000003).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000400000003).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000500000003).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000600000003).
+11.3.2024. 04:45:59 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:45:59 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:45:59 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000100000004).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000200000004).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000400000004).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000500000004).
+11.3.2024. 04:45:59 : Inserting entity with GID (0000000600000004).
+11.3.2024. 04:46:00 : The WCF service GenericDataAccess is ready.
+11.3.2024. 04:46:00 : Endpoints:
+11.3.2024. 04:46:00 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 04:46:00 : Connection string: ../NetworkModelData.data
+11.3.2024. 04:46:00 : Trace level: Info
+11.3.2024. 04:46:00 : The Network Model Service is started.
+11.3.2024. 04:46:00 : Press <Enter> to stop the service.
+11.3.2024. 04:54:15 : Starting Network Model Serivice...
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000100000001).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000200000001).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000400000001).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000500000001).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000600000001).
+11.3.2024. 04:54:15 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:54:15 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:54:15 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000100000002).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000200000002).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000400000002).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000500000002).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000600000002).
+11.3.2024. 04:54:15 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:54:15 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:54:15 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000100000003).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000200000003).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000400000003).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000500000003).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000600000003).
+11.3.2024. 04:54:15 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:54:15 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:54:15 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000100000004).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000200000004).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000400000004).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000500000004).
+11.3.2024. 04:54:15 : Inserting entity with GID (0000000600000004).
+11.3.2024. 04:54:16 : The WCF service GenericDataAccess is ready.
+11.3.2024. 04:54:16 : Endpoints:
+11.3.2024. 04:54:16 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 04:54:16 : Connection string: ../NetworkModelData.data
+11.3.2024. 04:54:16 : Trace level: Info
+11.3.2024. 04:54:16 : The Network Model Service is started.
+11.3.2024. 04:54:16 : Press <Enter> to stop the service.
+11.3.2024. 04:55:55 : The Network Model Service is closed.
+11.3.2024. 04:59:54 : Starting Network Model Serivice...
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000100000001).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000200000001).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000400000001).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000500000001).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000600000001).
+11.3.2024. 04:59:54 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:59:54 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:59:54 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000001).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000100000002).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000200000002).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000400000002).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000500000002).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000600000002).
+11.3.2024. 04:59:54 : Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:59:54 : Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:59:54 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000600000002) into model. Can not add reference TERMINAL_CONNECTIVITYNODE to entity (GID = 0x0000000400000002).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000100000003).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000200000003).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000400000003).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000500000003).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000600000003).
+11.3.2024. 04:59:54 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:59:54 : Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:59:54 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000600000003) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000200000003).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000100000004).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000200000004).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000400000004).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000500000004).
+11.3.2024. 04:59:54 : Inserting entity with GID (0000000600000004).
+11.3.2024. 04:59:56 : The WCF service GenericDataAccess is ready.
+11.3.2024. 04:59:56 : Endpoints:
+11.3.2024. 04:59:56 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 04:59:56 : Connection string: ../NetworkModelData.data
+11.3.2024. 04:59:56 : Trace level: Info
+11.3.2024. 04:59:56 : The Network Model Service is started.
+11.3.2024. 04:59:56 : Press <Enter> to stop the service.
+11.3.2024. 05:08:49 : Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:08:49 : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:09:31 : Starting Network Model Serivice...
+11.3.2024. 05:09:33 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:09:33 : Endpoints:
+11.3.2024. 05:09:33 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:09:33 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:09:33 : Trace level: Info
+11.3.2024. 05:09:33 : The Network Model Service is started.
+11.3.2024. 05:09:33 : Press <Enter> to stop the service.
+11.3.2024. 05:09:46 : Applying  delta to network model.
+11.3.2024. 05:09:46 : Failed to sort delta operations because there are some insert operations (count = 1) whose type (e.g 3) is not specified in the given list of types.
+11.3.2024. 05:09:46 : Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+11.3.2024. 05:10:02 : Applying  delta to network model.
+11.3.2024. 05:10:02 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:10:02 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:10:02 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:10:02 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:10:02 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:10:02 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:10:02 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:10:02 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001)..
+11.3.2024. 05:10:17 : Applying  delta to network model.
+11.3.2024. 05:10:17 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:10:17 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:10:17 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:10:17 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:10:17 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:10:17 : Applying delta to network model successfully finished.
+11.3.2024. 05:10:32 : Starting Network Model Serivice...
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:10:32 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:10:32 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:10:32 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:10:32 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:10:33 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:10:33 : Endpoints:
+11.3.2024. 05:10:33 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:10:33 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:10:33 : Trace level: Info
+11.3.2024. 05:10:33 : The Network Model Service is started.
+11.3.2024. 05:10:33 : Press <Enter> to stop the service.
+11.3.2024. 05:11:06 : Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:11:06 : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:12:11 : Starting Network Model Serivice...
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:12:11 : Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:12:11 : Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:12:11 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000600000001) into model. Can not add reference TERMINAL_CONDUCTINGEQUIPMENT to entity (GID = 0x0000000100000001).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:12:11 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:12:13 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:12:13 : Endpoints:
+11.3.2024. 05:12:13 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:12:13 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:12:13 : Trace level: Info
+11.3.2024. 05:12:13 : The Network Model Service is started.
+11.3.2024. 05:12:13 : Press <Enter> to stop the service.
+11.3.2024. 05:13:07 : Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:13:07 : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:19:09 : Starting Network Model Serivice...
+11.3.2024. 05:19:10 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:19:10 : Endpoints:
+11.3.2024. 05:19:10 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:19:10 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:19:10 : Trace level: Info
+11.3.2024. 05:19:10 : The Network Model Service is started.
+11.3.2024. 05:19:10 : Press <Enter> to stop the service.
+11.3.2024. 05:19:27 : Applying  delta to network model.
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:19:27 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:19:27 : Applying delta to network model successfully finished.
+11.3.2024. 05:19:46 : Starting Network Model Serivice...
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:19:46 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:19:47 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:19:47 : Endpoints:
+11.3.2024. 05:19:47 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:19:47 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:19:47 : Trace level: Info
+11.3.2024. 05:19:47 : The Network Model Service is started.
+11.3.2024. 05:19:47 : Press <Enter> to stop the service.
+11.3.2024. 05:31:57 : Starting Network Model Serivice...
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:31:58 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:31:59 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:31:59 : Endpoints:
+11.3.2024. 05:31:59 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:31:59 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:31:59 : Trace level: Info
+11.3.2024. 05:31:59 : The Network Model Service is started.
+11.3.2024. 05:31:59 : Press <Enter> to stop the service.
+11.3.2024. 05:35:19 : Starting Network Model Serivice...
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:35:20 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:35:21 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:35:21 : Endpoints:
+11.3.2024. 05:35:21 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:35:21 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:35:21 : Trace level: Info
+11.3.2024. 05:35:21 : The Network Model Service is started.
+11.3.2024. 05:35:21 : Press <Enter> to stop the service.
+11.3.2024. 05:36:04 : Starting Network Model Serivice...
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:36:04 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:36:04 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:36:04 : Endpoints:
+11.3.2024. 05:36:04 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:36:04 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:36:04 : Trace level: Info
+11.3.2024. 05:36:04 : The Network Model Service is started.
+11.3.2024. 05:36:04 : Press <Enter> to stop the service.
+11.3.2024. 05:36:48 : Starting Network Model Serivice...
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:36:48 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:36:50 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:36:50 : Endpoints:
+11.3.2024. 05:36:50 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:36:50 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:36:50 : Trace level: Info
+11.3.2024. 05:36:50 : The Network Model Service is started.
+11.3.2024. 05:36:50 : Press <Enter> to stop the service.
+11.3.2024. 05:44:29 : Starting Network Model Serivice...
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:44:29 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:44:30 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:44:30 : Endpoints:
+11.3.2024. 05:44:30 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:44:30 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:44:30 : Trace level: Info
+11.3.2024. 05:44:30 : The Network Model Service is started.
+11.3.2024. 05:44:30 : Press <Enter> to stop the service.
+11.3.2024. 05:47:23 : Starting Network Model Serivice...
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000100000001).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000100000002).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000100000003).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000200000001).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000200000002).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000200000003).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000400000001).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000400000002).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000400000003).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000500000001).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000500000002).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000500000003).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000600000001).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000600000002).
+11.3.2024. 05:47:23 : Inserting entity with GID (0000000600000003).
+11.3.2024. 05:47:25 : The WCF service GenericDataAccess is ready.
+11.3.2024. 05:47:25 : Endpoints:
+11.3.2024. 05:47:25 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 05:47:25 : Connection string: ../NetworkModelData.data
+11.3.2024. 05:47:25 : Trace level: Info
+11.3.2024. 05:47:25 : The Network Model Service is started.
+11.3.2024. 05:47:25 : Press <Enter> to stop the service.
+11.3.2024. 09:05:29 : Starting Network Model Serivice...
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000100000001).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000100000002).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000100000003).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000200000001).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000200000002).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000200000003).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000400000001).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000400000002).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000400000003).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000500000001).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000500000002).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000500000003).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000600000001).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000600000002).
+11.3.2024. 09:05:29 : Inserting entity with GID (0000000600000003).
+11.3.2024. 09:05:30 : The WCF service GenericDataAccess is ready.
+11.3.2024. 09:05:30 : Endpoints:
+11.3.2024. 09:05:30 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11.3.2024. 09:05:30 : Connection string: ../NetworkModelData.data
+11.3.2024. 09:05:30 : Trace level: Info
+11.3.2024. 09:05:30 : The Network Model Service is started.
+11.3.2024. 09:05:30 : Press <Enter> to stop the service.
+11.3.2024. 09:09:17 : Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:09:17 : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:10:14 : Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:10:14 : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:11:16 : Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:11:16 : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+18.3.2024. 20:05:35 : Starting Network Model Serivice...
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000100000001).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000100000002).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000100000003).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000200000001).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000200000002).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000200000003).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000400000001).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000400000002).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000400000003).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000500000001).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000500000002).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000500000003).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000600000001).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000600000002).
+18.3.2024. 20:05:35 : Inserting entity with GID (0000000600000003).
+18.3.2024. 20:05:36 : The WCF service GenericDataAccess is ready.
+18.3.2024. 20:05:36 : Endpoints:
+18.3.2024. 20:05:36 : net.tcp://localhost:10000/NetworkModelService/GDA/
+18.3.2024. 20:05:36 : Connection string: ../NetworkModelData.data
+18.3.2024. 20:05:36 : Trace level: Info
+18.3.2024. 20:05:36 : The Network Model Service is started.
+18.3.2024. 20:05:36 : Press <Enter> to stop the service.
+18.3.2024. 20:10:18 : Starting Network Model Serivice...
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000100000001).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000100000002).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000100000003).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000200000001).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000200000002).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000200000003).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000400000001).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000400000002).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000400000003).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000500000001).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000500000002).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000500000003).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000600000001).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000600000002).
+18.3.2024. 20:10:18 : Inserting entity with GID (0000000600000003).
+18.3.2024. 20:10:20 : The WCF service GenericDataAccess is ready.
+18.3.2024. 20:10:20 : Endpoints:
+18.3.2024. 20:10:20 : net.tcp://localhost:10000/NetworkModelService/GDA/
+18.3.2024. 20:10:20 : Connection string: ../NetworkModelData.data
+18.3.2024. 20:10:20 : Trace level: Info
+18.3.2024. 20:10:20 : The Network Model Service is started.
+18.3.2024. 20:10:20 : Press <Enter> to stop the service.
+18.3.2024. 20:10:50 : The Network Model Service is closed.

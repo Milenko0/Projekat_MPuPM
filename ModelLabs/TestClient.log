@@ -1,0 +1,188 @@
+25.2.2024. 17:03:01 : Network Model Service Test Client is up and running...
+25.2.2024. 17:03:01 : Result directory: ../Results
+25.2.2024. 17:03:22 : Entering entity id failed. Please use hex (0x) or decimal format.
+25.2.2024. 17:03:22 : GetValues failed. Input string was not in a correct format.
+25.2.2024. 17:04:08 : Getting extent values method started.
+25.2.2024. 17:04:09 : Getting extent values method successfully finished.
+25.2.2024. 17:05:48 : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in C:\Users\Milenko\Desktop\Projekat_MPUPM\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 254
+25.2.2024. 17:05:48 : GetRelatedValues failed. Input string was not in a correct format.
+25.2.2024. 17:08:36 : Network Model Service Test Client is up and running...
+25.2.2024. 17:08:36 : Result directory: ../Results
+25.2.2024. 17:08:52 : Getting values method started.
+25.2.2024. 17:08:52 : Failed to get model type code for DMS type: 0. Invalid DMS type
+25.2.2024. 17:08:52 : Getting values method for entered id = 1297036692683096064 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+25.2.2024. 17:11:21 : Getting values method started.
+25.2.2024. 17:11:22 : Getting values method successfully finished.
+25.2.2024. 17:14:48 : Getting extent values method started.
+25.2.2024. 17:14:48 : Getting extent values method successfully finished.
+25.2.2024. 17:15:47 : Getting extent values method started.
+25.2.2024. 17:15:47 : Getting extent values method successfully finished.
+25.2.2024. 17:16:28 : Getting extent values method started.
+25.2.2024. 17:16:28 : Getting extent values method successfully finished.
+25.2.2024. 17:18:18 : Getting related values method started.
+25.2.2024. 17:18:19 : Getting related values method  failed for sourceGlobalId = 4294967297 and association (propertyId = CONDUCTOR_LENGTH, type = CONDUCTOR). Reason: Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Association propertyId = CONDUCTOR_LENGTH is not reference or reference vector type..
+25.2.2024. 17:21:49 : Getting related values method started.
+25.2.2024. 17:21:49 : Getting related values method  failed for sourceGlobalId = 17179869185 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = TERMINAL). Reason: Getting related values for resource with ID = 0x0000000400000001 failed. Failed to get related values for source GID = 0x0000000400000001. Entity with GID = 0x0000000400000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+25.2.2024. 17:24:04 : Getting related values method started.
+25.2.2024. 17:24:04 : Getting related values method successfully finished.
+25.2.2024. 17:27:43 : Getting related values method started.
+25.2.2024. 17:27:43 : Getting related values method successfully finished.
+25.2.2024. 17:34:42 : Network Model Service Test Client is up and running...
+25.2.2024. 17:34:42 : Result directory: ../Results
+25.2.2024. 17:35:53 : Getting related values method started.
+25.2.2024. 17:35:54 : Getting related values method successfully finished.
+25.2.2024. 17:37:26 : Apply update method started.
+25.2.2024. 17:37:26 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Invalid delta. Some insert operations (count = 1) whose type (e.g 3) is not correct..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000009
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000009
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000009
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000009
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000006
+
+25.2.2024. 17:37:50 : Network Model Service Test Client stopped.
+11.3.2024. 04:42:07 : Network Model Service Test Client is up and running...
+11.3.2024. 04:42:07 : Result directory: ../Results
+11.3.2024. 04:45:59 : Network Model Service Test Client is up and running...
+11.3.2024. 04:45:59 : Result directory: ../Results
+11.3.2024. 04:46:17 : Getting values method started.
+11.3.2024. 04:46:17 : Failed to get model type code for DMS type: 0. Invalid DMS type
+11.3.2024. 04:46:17 : Getting values method for entered id = 100000001 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+11.3.2024. 04:46:47 : Getting values method started.
+11.3.2024. 04:46:47 : Getting values method successfully finished.
+11.3.2024. 04:48:14 : Getting extent values method started.
+11.3.2024. 04:48:14 : Getting extent values method successfully finished.
+11.3.2024. 04:49:01 : Getting extent values method started.
+11.3.2024. 04:49:01 : Getting extent values method successfully finished.
+11.3.2024. 04:50:46 : Getting related values method started.
+11.3.2024. 04:50:46 : Getting related values method successfully finished.
+11.3.2024. 04:51:06 : Getting conductor method started.
+11.3.2024. 04:51:06 : Getting conductor method successfully finished.
+11.3.2024. 04:54:15 : Network Model Service Test Client is up and running...
+11.3.2024. 04:54:15 : Result directory: ../Results
+11.3.2024. 04:54:19 : Getting DcLineSegment method started.
+11.3.2024. 04:54:20 : Getting DcLineSegment method successfully finished.
+11.3.2024. 04:54:42 : Printing all IDs for models has started.
+11.3.2024. 04:54:42 : Getting extent values method started.
+11.3.2024. 04:54:43 : Getting extent values method successfully finished.
+11.3.2024. 04:54:43 : Getting extent values method started.
+11.3.2024. 04:54:43 : Getting extent values method successfully finished.
+11.3.2024. 04:54:43 : Getting extent values method started.
+11.3.2024. 04:54:43 : Getting extent values method successfully finished.
+11.3.2024. 04:54:43 : Getting extent values method started.
+11.3.2024. 04:54:43 : Getting extent values method successfully finished.
+11.3.2024. 04:54:43 : Getting extent values method started.
+11.3.2024. 04:54:43 : Getting extent values method successfully finished.
+11.3.2024. 04:54:43 : Getting extent values method started.
+11.3.2024. 04:54:43 : Getting extent values method successfully finished.
+11.3.2024. 04:54:43 : PrintAllIdesByModels successfully finished.
+11.3.2024. 04:55:11 : Getting extent values method started.
+11.3.2024. 04:55:11 : Getting extent values method failed for 4294967297.
+	Invalid Model Code: 4294967297
+11.3.2024. 04:55:53 : Network Model Service Test Client stopped.
+11.3.2024. 04:59:54 : Network Model Service Test Client is up and running...
+11.3.2024. 04:59:54 : Result directory: ../Results
+11.3.2024. 05:01:34 : Getting related values method started.
+11.3.2024. 05:01:35 : Getting related values method  failed for sourceGlobalId = 4294967297 and association (propertyId = 4, type = 45). Reason: There was an error while trying to serialize parameter http://tempuri.org/:association. The InnerException message was 'Enum value '4' is invalid for type 'FTN.Common.ModelCode' and cannot be serialized. Ensure that the necessary enum values are present and are marked with EnumMemberAttribute attribute if the type has DataContractAttribute attribute.'.  Please see InnerException for more details.
+11.3.2024. 05:01:46 : Getting extent values method started.
+11.3.2024. 05:01:46 : Getting extent values method successfully finished.
+11.3.2024. 05:02:27 : Getting extent values method started.
+11.3.2024. 05:02:28 : Getting extent values method successfully finished.
+11.3.2024. 05:07:10 : Getting related values method started.
+11.3.2024. 05:07:10 : Getting related values method successfully finished.
+11.3.2024. 05:08:49 : Getting related values method started.
+11.3.2024. 05:08:51 : Getting related values method  failed for sourceGlobalId = 21474836481 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = CONNECTIVITYNODE). Reason: Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:10:32 : Network Model Service Test Client is up and running...
+11.3.2024. 05:10:32 : Result directory: ../Results
+11.3.2024. 05:11:06 : Getting related values method started.
+11.3.2024. 05:11:06 : Getting related values method  failed for sourceGlobalId = 21474836481 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = CONNECTIVITYNODE). Reason: Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:12:11 : Network Model Service Test Client is up and running...
+11.3.2024. 05:12:11 : Result directory: ../Results
+11.3.2024. 05:13:06 : Getting related values method started.
+11.3.2024. 05:13:07 : Getting related values method  failed for sourceGlobalId = 21474836481 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = DCLINESEGMENT). Reason: Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 05:13:31 : Getting extent values method started.
+11.3.2024. 05:13:32 : Getting extent values method successfully finished.
+11.3.2024. 05:14:22 : Getting extent values method started.
+11.3.2024. 05:14:22 : Getting extent values method successfully finished.
+11.3.2024. 05:14:42 : Getting extent values method started.
+11.3.2024. 05:14:42 : Getting extent values method successfully finished.
+11.3.2024. 05:15:07 : Getting extent values method started.
+11.3.2024. 05:15:07 : Getting extent values method successfully finished.
+11.3.2024. 05:19:46 : Network Model Service Test Client is up and running...
+11.3.2024. 05:19:46 : Result directory: ../Results
+11.3.2024. 05:20:01 : Getting extent values method started.
+11.3.2024. 05:20:02 : Getting extent values method successfully finished.
+11.3.2024. 05:31:56 : Network Model Service Test Client is up and running...
+11.3.2024. 05:31:56 : Result directory: ../Results
+11.3.2024. 05:32:14 : Getting extent values method started.
+11.3.2024. 05:32:15 : Getting extent values method successfully finished.
+11.3.2024. 05:32:43 : Getting extent values method started.
+11.3.2024. 05:32:43 : Getting extent values method successfully finished.
+11.3.2024. 05:33:04 : Getting extent values method started.
+11.3.2024. 05:33:04 : Getting extent values method successfully finished.
+11.3.2024. 05:33:24 : Getting extent values method started.
+11.3.2024. 05:33:24 : Getting extent values method successfully finished.
+11.3.2024. 05:33:40 : Getting extent values method started.
+11.3.2024. 05:33:41 : Getting extent values method successfully finished.
+11.3.2024. 05:33:56 : Getting extent values method started.
+11.3.2024. 05:33:56 : Getting extent values method successfully finished.
+11.3.2024. 05:35:19 : Network Model Service Test Client is up and running...
+11.3.2024. 05:35:19 : Result directory: ../Results
+11.3.2024. 05:35:23 : Getting DcLineSegment method started.
+11.3.2024. 05:35:24 : Getting DcLineSegment method successfully finished.
+11.3.2024. 05:36:04 : Network Model Service Test Client is up and running...
+11.3.2024. 05:36:04 : Result directory: ../Results
+11.3.2024. 05:36:08 : Getting DcLineSegment method started.
+11.3.2024. 05:36:08 : Getting DcLineSegment method successfully finished.
+11.3.2024. 05:36:48 : Network Model Service Test Client is up and running...
+11.3.2024. 05:36:48 : Result directory: ../Results
+11.3.2024. 05:36:50 : Getting DcLineSegment method started.
+11.3.2024. 05:36:51 : Getting DcLineSegment method successfully finished.
+11.3.2024. 05:44:29 : Network Model Service Test Client is up and running...
+11.3.2024. 05:44:29 : Result directory: ../Results
+11.3.2024. 05:44:32 : Getting DcLineSegment method started.
+11.3.2024. 05:44:32 : Getting DcLineSegment method successfully finished.
+11.3.2024. 05:47:23 : Network Model Service Test Client is up and running...
+11.3.2024. 05:47:23 : Result directory: ../Results
+11.3.2024. 05:47:27 : Getting PerLengthImpedance method started.
+11.3.2024. 05:47:28 : Getting PerLengthImpedance method successfully finished.
+11.3.2024. 09:05:29 : Network Model Service Test Client is up and running...
+11.3.2024. 09:05:29 : Result directory: ../Results
+11.3.2024. 09:06:03 : Getting values method started.
+11.3.2024. 09:06:04 : Getting values method successfully finished.
+11.3.2024. 09:06:47 : Getting extent values method started.
+11.3.2024. 09:06:47 : Getting extent values method successfully finished.
+11.3.2024. 09:09:17 : Getting related values method started.
+11.3.2024. 09:09:17 : Getting related values method  failed for sourceGlobalId = 21474836481 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = CONDUCTINGEQUIPMENT). Reason: Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:10:14 : Getting related values method started.
+11.3.2024. 09:10:14 : Getting related values method  failed for sourceGlobalId = 4294967297 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = SERIESCOMPENSATOR). Reason: Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:11:16 : Getting related values method started.
+11.3.2024. 09:11:16 : Getting related values method  failed for sourceGlobalId = 21474836481 and association (propertyId = TERMINAL_CONDUCTINGEQUIPMENT, type = SERIESCOMPENSATOR). Reason: Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Entity with GID = 0x0000000500000001 does not contain prperty with Id = TERMINAL_CONDUCTINGEQUIPMENT..
+11.3.2024. 09:11:53 : Getting related values method started.
+11.3.2024. 09:11:53 : Getting related values method successfully finished.
+18.3.2024. 20:05:35 : Network Model Service Test Client is up and running...
+18.3.2024. 20:05:35 : Result directory: ../Results
+18.3.2024. 20:05:42 : Getting AcLineSegment for PerLengthImpedance with the highest GID started.
+18.3.2024. 20:05:42 : Getting extent values method started.
+18.3.2024. 20:05:43 : Getting extent values method successfully finished.
+18.3.2024. 20:05:43 : Getting extent values method started.
+18.3.2024. 20:05:43 : Getting extent values method successfully finished.
+18.3.2024. 20:05:43 : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+18.3.2024. 20:10:18 : Network Model Service Test Client is up and running...
+18.3.2024. 20:10:18 : Result directory: ../Results
+18.3.2024. 20:10:22 : Getting AcLineSegment for PerLengthImpedance with the highest GID started.
+18.3.2024. 20:10:22 : Getting extent values method started.
+18.3.2024. 20:10:23 : Getting extent values method successfully finished.
+18.3.2024. 20:10:23 : Getting extent values method started.
+18.3.2024. 20:10:23 : Getting extent values method successfully finished.
+18.3.2024. 20:10:23 : Getting AcLineSegment for PerLengthImpedance with the highest GID successfully finished.
+18.3.2024. 20:10:49 : Network Model Service Test Client stopped.
